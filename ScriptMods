@@ -1,6 +1,6 @@
-local id = [
+local SWAGMIN = [
   247303753,
   
   ]
 
-return id;
+return SWAGMIN
